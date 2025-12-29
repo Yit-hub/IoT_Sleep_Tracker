@@ -30,8 +30,8 @@
 #include <PulseSensorPlayground.h>
 
 // -------------------- USER CONFIG --------------------
-const char* WIFI_SSID = "Yi";
-const char* WIFI_PASS = "yodaniel04";
+const char* WIFI_SSID = "Wifi_name";
+const char* WIFI_PASS = "Wifi_Password";
 
 // ThingSpeak
 unsigned long THINGSPEAK_CHANNEL_ID = 3204174;
