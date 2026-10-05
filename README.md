@@ -12,4 +12,5 @@ For the development of this project we used the following physical components
 |Light Sensor    |`Ambient Light trackign`        |
 |DS3231 RTC      |`Real Time tracking`            |
 
+## Model
 ![image](Circuit.jpg)
