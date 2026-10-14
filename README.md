@@ -11,6 +11,9 @@ For the development of this project we used the following physical components
 |KY-037          |`Ambient Noise tracking`        |
 |Light Sensor    |`Ambient Light trackign`        |
 |DS3231 RTC      |`Real Time tracking`            |
+## ThingSpeak
+All the data is stored and monitored via ThingSpeak Channel
+<img width="2920" height="4800" alt="Image" src="https://github.com/user-attachments/assets/98126e00-c046-4dcf-9cba-c6dfe92d6ad6" />
 
 ## Model
 ![image](Circuit.jpg)
