@@ -13,7 +13,7 @@ For the development of this project we used the following physical components
 |DS3231 RTC      |`Real Time tracking`            |
 ## ThingSpeak
 All the data is stored and monitored via ThingSpeak Channel
-![image](ThingSpeak\(1).png)
+![image](ThingSpeak.png)
 
 ## Model
 ![image](Circuit.jpg)
